@@ -1,6 +1,6 @@
 ### Lucas Wokaman
 #### Full Stack Dev Student / JavaScript Developer
-  <div align="left">
+<div align="left">
   <a href="https://github.com/LucasSelva">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasSelva&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSelva&layout=compact&langs_count=7&theme=github_dark"/>
